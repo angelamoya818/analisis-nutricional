@@ -7,10 +7,10 @@ Una persona que tiene unos objetivos nutricionales quiere poder tener un control
 Somos muchos a los que a día de hoy nos gusta cuidar nuestra alimentación para sentirnos mejor y favorecer nuestra salud. Pero muchas veces no tenemos la suficiente información sobre como hacer nuestra propia dieta equilibrada, ya que desconocemos los nutrientes que tienen los alimentos que consumimos.
 
 ## Datos disponibles
-Una persona nos da su dieta semanal (cantidades de cada alimento que come en cada comida del día) a partir de la cual se estudiará si cumple los objetivos que se propone.
+Una persona va seleccionando diariamente que alimentos consume en cada comida y así calculamos valor nutricional de lo que come a lo largo del día y se compara con los objetivos que quiere cumplir.
 
 ## Lógica del problema
-Se hace una comparación de los nutrienetes consumidos con los objetivos y se detecta que días se alejan de los objetivos dando un análisi detallado.
+Se hace una comparación de los nutrientes consumidos con los objetivos y se detecta que días se alejan de los objetivos dando un análisis detallado.
 
 ## Role-play
 ![Foto 1 del role-play](documentos/role-play/roleplay1.jpg)
