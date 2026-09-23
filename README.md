@@ -21,9 +21,9 @@ A partir de estas selecciones, se calcula la cantidad total de proteínas, carbo
 De esta forma, se puede comprobar si los nutrientes consumidos se ajustan a los objetivos y detectar aquellos días en los que existe una mayor diferencia respecto a lo que se quería conseguir.
 
 ## Role-play
-![Foto 1 del role-play](documentos/role-play/roleplay1.jpg)
+![Foto 1 del role-play](docs/role-play/roleplay1.jpg)
 
-![Foto 2 del role-play](documentos/role-play/roleplay2.jpg)
+![Foto 2 del role-play](docs/role-play/roleplay2.jpg)
 
 ## Configuración del repositorio 
 - [Configuración del entorno](docs/configuracion/configuracion.md)
