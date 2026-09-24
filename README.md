@@ -14,7 +14,7 @@ El problema consiste en poder comparar productos que pueden tener diferentes pre
 Estos cálculos permitirán analizar productos y comparar sus características nutricionales y cuánto cuestan.
 
 ## Role-play
-![Foto del role-play](docs/role-play/roleplay.jpg)
+![Foto del role-play](docs/role-play/roleplay.jpeg)
 
 ## Configuración del repositorio 
 - [Configuración del entorno](docs/configuracion/configuracion.md)
